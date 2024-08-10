@@ -46,7 +46,7 @@ OPTIONAL FEATURE → WORKOUT PROGRESS USING CHARTS
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/shantanupawarcode07/Health-Challenge-Tracker
+   https://github.com/AnushaGangapuram04/Health--Challenge--Tracker.git
    cd Health-Challenge-Tracker
    ```
 
